@@ -1,3 +1,11 @@
+-------------------------------------------------------------------------------------------
+
+[![Build Status](https://travis-ci.org/jwhchambers/react-starter-kit.svg?branch=master)](https://travis-ci.org/jwhchambers/react-starter-kit)
+
+I will be making a few changes to the boilerplate but will try and keep it up to date with their developments as it is a great starter kit!
+
+-------------------------------------------------------------------------------------------
+
 ## React Starter Kit — "[isomorphic](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/)" web app boilerplate
 
 > [React Starter Kit](https://www.reactstarterkit.com) is an opinionated
